@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&vCenter=true&random=false&width=435&lines=Transfer+Learning+for+NLP+with+TensorFlow+Hub)](https://git.io/typing-svg)
-
 # Transfer Learning for NLP with TensorFlow Hub
 
 This project demonstrates the use of various pre-trained models for transfer learning in NLP using TensorFlow Hub.
@@ -18,3 +16,12 @@ This project demonstrates the use of various pre-trained models for transfer lea
 
 This table provides a quick overview of the training results for each model, including accuracy, loss, and validation metrics.
 
+# Summary of Training Results
+
+- The models were trained for one epoch each.
+- The accuracy of the models ranged from 92.13% to 93.65%.
+- The loss values varied between 0.2729 and 0.3408.
+- All models achieved a validation accuracy of 93.81%.
+- The validation loss ranged from 0.1682 to 0.2256.
+
+This summary provides a concise overview of the training performance across different models.
