@@ -16,5 +16,5 @@ This project demonstrates the use of various pre-trained models for transfer lea
 | universal-sentence-encoder-large   | 0     | 0.9365   | 0.2923| 0.9381       | 0.1682   |
 
 
-
+This table provides a quick overview of the training results for each model, including accuracy, loss, and validation metrics.
 
