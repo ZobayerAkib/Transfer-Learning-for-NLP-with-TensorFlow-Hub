@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2013F7&center=true&vCenter=true&random=false&width=435&lines=Transfer+Learning+for+NLP+with+TensorFlow+Hub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&vCenter=true&random=false&width=435&lines=Transfer+Learning+for+NLP+with+TensorFlow+Hub)](https://git.io/typing-svg)
 
 # Transfer Learning for NLP with TensorFlow Hub
 
